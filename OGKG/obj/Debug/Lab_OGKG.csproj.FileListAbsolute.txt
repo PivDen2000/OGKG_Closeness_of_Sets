@@ -1,0 +1,47 @@
+C:\Users\Егор\source\repos\Lab_OGKG\bin\Debug\Lab_OGKG.exe.config
+C:\Users\Егор\source\repos\Lab_OGKG\bin\Debug\Lab_OGKG.exe
+C:\Users\Егор\source\repos\Lab_OGKG\bin\Debug\Lab_OGKG.pdb
+C:\Users\Егор\source\repos\Lab_OGKG\obj\Debug\Lab_OGKG.csprojAssemblyReference.cache
+C:\Users\Егор\source\repos\Lab_OGKG\obj\Debug\MainWindow.g.cs
+C:\Users\Егор\source\repos\Lab_OGKG\obj\Debug\App.g.cs
+C:\Users\Егор\source\repos\Lab_OGKG\obj\Debug\Lab_OGKG_MarkupCompile.cache
+C:\Users\Егор\source\repos\Lab_OGKG\obj\Debug\Lab_OGKG_MarkupCompile.lref
+C:\Users\Егор\source\repos\Lab_OGKG\obj\Debug\MainWindow.baml
+C:\Users\Егор\source\repos\Lab_OGKG\obj\Debug\Lab_OGKG.g.resources
+C:\Users\Егор\source\repos\Lab_OGKG\obj\Debug\Lab_OGKG.Properties.Resources.resources
+C:\Users\Егор\source\repos\Lab_OGKG\obj\Debug\Lab_OGKG.csproj.GenerateResource.cache
+C:\Users\Егор\source\repos\Lab_OGKG\obj\Debug\Lab_OGKG.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\Lab_OGKG\obj\Debug\Lab_OGKG.exe
+C:\Users\Егор\source\repos\Lab_OGKG\obj\Debug\Lab_OGKG.pdb
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG_Egor\bin\Debug\Lab_OGKG.exe.config
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG_Egor\bin\Debug\Lab_OGKG.exe
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG_Egor\bin\Debug\Lab_OGKG.pdb
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG_Egor\obj\Debug\Lab_OGKG.csproj.AssemblyReference.cache
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG_Egor\obj\Debug\Lab_OGKG.csproj.SuggestedBindingRedirects.cache
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG_Egor\obj\Debug\MainWindow.g.cs
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG_Egor\obj\Debug\App.g.cs
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG_Egor\obj\Debug\Lab_OGKG_MarkupCompile.cache
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG_Egor\obj\Debug\Lab_OGKG_MarkupCompile.lref
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG_Egor\obj\Debug\MainWindow.baml
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG_Egor\obj\Debug\Lab_OGKG.g.resources
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG_Egor\obj\Debug\Lab_OGKG.Properties.Resources.resources
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG_Egor\obj\Debug\Lab_OGKG.csproj.GenerateResource.cache
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG_Egor\obj\Debug\Lab_OGKG.csproj.CoreCompileInputs.cache
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG_Egor\obj\Debug\Lab_OGKG.exe
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG_Egor\obj\Debug\Lab_OGKG.pdb
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG\bin\Debug\Lab_OGKG.exe.config
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG\bin\Debug\Lab_OGKG.exe
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG\bin\Debug\Lab_OGKG.pdb
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG\obj\Debug\Lab_OGKG.csproj.AssemblyReference.cache
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG\obj\Debug\Lab_OGKG.csproj.SuggestedBindingRedirects.cache
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG\obj\Debug\MainWindow.g.cs
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG\obj\Debug\App.g.cs
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG\obj\Debug\Lab_OGKG_MarkupCompile.cache
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG\obj\Debug\Lab_OGKG_MarkupCompile.lref
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG\obj\Debug\MainWindow.baml
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG\obj\Debug\Lab_OGKG.g.resources
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG\obj\Debug\Lab_OGKG.Properties.Resources.resources
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG\obj\Debug\Lab_OGKG.csproj.GenerateResource.cache
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG\obj\Debug\Lab_OGKG.csproj.CoreCompileInputs.cache
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG\obj\Debug\Lab_OGKG.exe
+D:\prived\Універ\5 курс 2 сем\ОГКГ\Lab_OGKG\obj\Debug\Lab_OGKG.pdb
